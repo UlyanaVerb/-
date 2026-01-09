@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Parasite Keyboard</string>
+    <string name="keyboard_name">Parasite Keyboard</string>
+    <string name="settings">Настройки</string>
+    <string name="word_cards">Карточки слов</string>
+    <string name="add_parasite_word">Добавить слово-паразит</string>
+    <string name="parasite_words">Мои слова-паразиты</string>
+    <string name="add_word_hint">Введите слово...</string>
+    <string name="add">Добавить</string>
+    <string name="delete">Удалить</string>
+    <string name="suggested_synonyms">Предложенные синонимы:</string>
+    <string name="no_parasite_words">Слова-паразиты не добавлены</string>
+    <string name="widget_title">Паразиты</string>
+    <string name="enable_keyboard">Включить клавиатуру</string>
+    <string name="keyboard_settings">Настройки клавиатуры</string>
+    <string name="vibration">Вибрация при замене</string>
+    <string name="sound">Звук при замене</string>
+    <string name="auto_replace">Автозамена</string>
+    <string name="statistics">Статистика</string>
+    <string name="words_replaced">Слов заменено:</string>
+    <string name="today">Сегодня</string>
+    <string name="total">Всего</string>
+    <string name="widget_description">Показывает статистику замены слов</string>
+</resources>
